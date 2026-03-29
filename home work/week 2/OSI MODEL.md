@@ -14,6 +14,12 @@ it can be attacked by
 - *xss*
 - *HTTPFlood*
 - *DNS poisoning*
+     ### how does it work
+  - if we vist it before it will store it at the cache
+  - it will ask the router if it has the address
+  - it wiil ask other servers
+  - TLD resolver
+
 
 ## 2. presentation layer 
 
