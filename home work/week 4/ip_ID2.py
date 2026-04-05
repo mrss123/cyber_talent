@@ -48,7 +48,7 @@ print ("2. WEB name")
 print ("-"*50)
 choice = int (input ("enter here: "))
 
-access_token = '098c0bb5969c4f' 
+access_token = 'get tocken from ipinfo.org' 
 handler = ipinfo.getHandler(access_token)
 handler._request_timeout =10
 try: 
