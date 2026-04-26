@@ -1,0 +1,27 @@
+- attack surface and web fundamental 
+- web sec
+-   web security 
+	- we use web proxy to analysis requests and reponses
+		- header 
+			- on the request 
+				- the question and ID of the user 
+			- on the response 
+				- sessions ID 
+				- cokkies
+	- http methods 
+		- get - from server to client  
+		- post - from client  to server 
+		- put - to update our info 
+		- patch -  update a specific data 
+		- delete - delete data 
+		- options - to see all the methods 
+	-  status code
+		- 100 for informational purpose 
+		- 200 for  success 
+		- 300 for redirect 
+		- 400 client error 
+		- 500 server error 
+	- parameter 
+		-  question  -==  why the responce recived different for every given back 
+		- zisioanos methedology
+- burpsuite
